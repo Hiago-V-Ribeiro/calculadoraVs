@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "de97+RCMyApYNYrvsSd379BQImjT9gz1At4zaRVpgxQw6JsVJ/a9/VSJUDG+ETEPx9ExzIuhf3BSnTe88MtpGQ==",
+  "success": true,
+  "projectFilePath": "E:\\calculçadorinha2\\calculçadorinha2\\calculadorinha\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
